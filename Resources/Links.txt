@@ -1,7 +1,0 @@
-https://learnopencv.com/playing-rock-paper-scissors-with-ai/
-
-https://github.com/SouravJohar/rock-paper-scissors
-
-https://colab.research.google.com/drive/1Q-hA3v-H-CBD6Y4UcvLvVhIgLJ9vLZGv?authuser=1#scrollTo=wmcefwvctykA
-https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_mobilenet_v2/rock_paper_scissors_mobilenet_v2.ipynb
-
